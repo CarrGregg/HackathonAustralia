@@ -6,3 +6,7 @@ This is the working Repo for Hackathon Australia Dev. Weekend of 19 December
 
 ## Technologies
 * Meteor.js
+
+
+## Tasking and Development
+https://trello.com/b/U2e0UFEg/development
