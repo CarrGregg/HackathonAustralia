@@ -6,6 +6,7 @@ This is the working Repo for Hackathon Australia Dev. Weekend of 19 December
 
 ## Technologies
 * Meteor.js
+* Registration of new events (Typeform: Refer to [demo](https://www.youtube.com/watch?v=g8HhRXTVQ2c))
 
 
 ## Tasking and Development
